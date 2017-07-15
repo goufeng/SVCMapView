@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/relative_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.example.flowproject.MainActivity">
+
+    <!--<Button-->
+    <!--android:id="@+id/btn_reset"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:textSize="25sp"-->
+    <!--android:text="重置"/>-->
+    <com.example.flowproject.MapView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <!--<ImageView-->
+        <!--android:id="@+id/anima_image"-->
+        <!--android:layout_width="80dp"-->
+        <!--android:layout_height="80dp"-->
+        <!--android:layout_gravity="center"-->
+        <!--/>-->
+
+    <!--<com.example.flowproject.LoadingView-->
+        <!--android:layout_width="100dp"-->
+        <!--android:layout_height="100dp"/>-->
+    <!--<com.example.flowproject.DragBubbleView-->
+        <!--android:id="@+id/bubble_view"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="200dp"-->
+        <!--android:layout_centerInParent="true"-->
+        <!--android:background="#55ffffff"-->
+        <!--app:bubble_text="12"-->
+        <!--app:bubble_textColor="#ffffff"-->
+        <!--app:bubble_textSize="12dp"-->
+        <!--app:bubble_radius="12dp"-->
+        <!--app:bubble_color="#ff0000"/>-->
+
+    <!--<com.example.flowproject.LiGraTextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:textSize="30sp"-->
+        <!--android:textColor="@android:color/white"-->
+        <!--android:text="习近平抵达香港 在机场发表讲话，习近平抵达香港 在机场发表讲话"/>-->
+
+    <!--<com.example.flowproject.ZoomView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--/>-->
+
+    <!--<com.example.flowproject.MinionView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="match_parent"-->
+        <!--appself:borderRadius="80dp"/>-->
+    <!--<com.example.flowproject.FlowLayout-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content">-->
+
+        <!--<TextView-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:text="hello1" />-->
+
+        <!--<TextView-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:text="hello,hi2" />-->
+
+        <!--<TextView-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:text="你是我的3"-->
+            <!--android:textSize="18sp"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:text="hello,man4" />-->
+
+        <!--<TextView-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:text="helloview5" />-->
+
+        <!--<TextView-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:text="view6" />-->
+
+        <!--<TextView-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:text="我是你的7"-->
+            <!--android:textSize="20sp"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:text="he8" />-->
+
+        <!--<TextView-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:text="hello9" />-->
+
+        <!--<TextView-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:text="textview 10" />-->
+
+        <!--<TextView-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:text="view 11" />-->
+
+        <!--<TextView-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:text="hello,view 12" />-->
+
+        <!--<TextView-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:text="hello,mt 13" />-->
+
+        <!--<TextView-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:text="hel 14" />-->
+        <!--<TextView-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:text="hel 15" />-->
+
+        <!--<TextView-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:text="hel2 16" />-->
+
+        <!--<TextView-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:text="hel 17" />-->
+
+        <!--<TextView-->
+            <!--style="@style/text_flag_01"-->
+            <!--android:text="hel2 18" />-->
+
+    <!--</com.example.flowproject.FlowLayout>-->
+</LinearLayout>
